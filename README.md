@@ -1,15 +1,7 @@
 ### Hi there 👋🏽
 Thank you for visiting my GitHub profile, I'm so excited you are here!
 
-### About Me:
-📊  I'm passionate about all things data, I have special interest in Data Analysis, Engineering and Science.  
-📚  I love sharing knowledge with others and in general helping people!  
-😄  Pronouns - He/Him/His.  
- 
-### Fun Facts:  
-🐈  I'm a big fan of cats and pandas 🐼  
-🏉  When I'm not coding, I like to do sports while watching the stock market hehe  
-🎥  One of my favorite movie is *Snatch*
+[![Linkedin: pmbrull](https://img.shields.io/badge/-arseniykolmagorov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arseniy-kolmagorov/)](https://www.linkedin.com/in/arseniy-kolmagorov/)
 
-### Let's connect:
-⛓️ https://www.linkedin.com/in/arseniy-kolmagorov/
+### My statistics in Github
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=arseniyy123&show_icons=true&theme=highcontrast&hide=issues,stars&count_private=true)](https://www.linkedin.com/in/arseniy-kolmagorov/)
